@@ -112,6 +112,7 @@ h1{
 .textrasm:hover{
     background-color: rgba(90, 152, 242, 1); 
     color: aliceblue;
+    transition: .5s;
 }
 
 .cards>p{
@@ -131,4 +132,8 @@ span{
     text-align: center;
     font-size: 18px;
     margin-left: 500px;
+}
+
+.image{
+    margin: 25px 0px 25px 30px;
 }
